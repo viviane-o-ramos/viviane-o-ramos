@@ -1,9 +1,7 @@
-### Hi you!! 👋
+### Bem vindo(a)!! 👋
 
-**viviane-o-ramos/viviane-o-ramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+**viviane-o-ramos/viviane-o-ramos** 
+ -Meu nome é Viviane! Mas pode me chamar de miya(apelido)
 - 🔭 I’m currently working on Alura
 - 🌱 I’m currently learning Java script language
 - 💬 Ask me about rpg
