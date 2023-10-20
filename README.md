@@ -6,4 +6,4 @@
 - 🌱 Estou aprendendo a linuagem do Java script!!
 - 💬 Pode me perguntar sobre minhas coisas favoritas(rpg e arg)
 - 😄 Pronouns: she/he
-- ⚡ Fun fact: estou no 1 ano do ensino médio, sei o basico de inglês e pretendo aprender um pouco mais sobre a linguagem da programação 😸
+- ⚡ Fun fact: estou no 1 ano do ensino médio, sei o basico de inglês e pretendo aprender um pouco mais sobre a linguagem da programação! 😸
